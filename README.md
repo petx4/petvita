@@ -1,17 +1,6 @@
 # PetVida – Banco de Dados de uma Clínica Veterinária
 
-SGBD: **MySQL 8.0**. Todos os scripts foram testados em um MySQL 8.0.46 limpo. Dados fictícios.
 
-```
-petvida_mysql/
-├── README.md
-├── docs/modelagem_logica.png
-└── scripts/
-    ├── 01_criar_banco_e_tabelas.sql
-    ├── 02_popular_tabelas.sql
-    ├── 03_consultas.sql
-    └── dump_petvida.sql
-```
 
 ---
 
